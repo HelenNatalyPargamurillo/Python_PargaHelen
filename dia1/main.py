@@ -46,5 +46,23 @@ if texto=="campus":
 else:
      print("nosoy campus")
 
+#----------Funciones---------------
+ 
+#1 con retorno con parametro
+def retornar_superficie(lado):
+    sup=lado*lado
+
+    return sup
+
+#3 sin retorno con parametro
+
+#4 sin retorno sin parametro  
+ 
+          
+
+    
+#-----------Areglos-------------
+     
+
 
 ## Desarollado por Helen Parga-1001301103
