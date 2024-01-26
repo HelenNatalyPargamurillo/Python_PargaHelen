@@ -34,9 +34,9 @@ for i  in range (5,10,2):
 
 #2 ciclo while
     boleanito=True
-    while boleanito == True #while es lacondicion a cumplir :
-    print ("sigo vivo")
-    boleanito = False
+    while boleanito == True: #while es lacondicion a cumplir
+        print ("sigo vivo")
+        boleanito = False
 
 #-------------condicionales-------
     
@@ -54,15 +54,27 @@ def retornar_superficie(lado):
 
     return sup
 
-#3 sin retorno con parametro
+#2sin retorno con parametro
+def calcular_cuadrado(numero):
+    cuadrado = numero **2
+    print("el cuadrado de",numero ,"es:",cuadrado)
+
+#3 con retorno sin parametro
+def obtener_numero():
+    return 42
 
 #4 sin retorno sin parametro  
- 
+    def saludo ():
+         print ("saludo")
           
 
     
+
 #-----------Areglos-------------
-     
+numeros_consecutivos = int        
+numeros_consecutivos= [1,10]
+for i in range(1.10):
+    print(i)
 
 
 ## Desarollado por Helen Parga-1001301103

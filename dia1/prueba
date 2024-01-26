@@ -1,0 +1,2 @@
+numeros_consecutivos= ["1","10"]
+print (numeros_consecutivos)
