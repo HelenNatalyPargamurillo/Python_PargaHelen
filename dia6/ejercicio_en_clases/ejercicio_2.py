@@ -36,3 +36,5 @@
 #Definición: colección no ordenada (clave-valor.)  
 #{ }.
 #Ejemplo: mi_diccionario = {"clave1": "valor1", "clave2": 42, "clave3": [1, 2, 3]}
+
+#------------creado por Helen Ntaly Parga Murillo----------
