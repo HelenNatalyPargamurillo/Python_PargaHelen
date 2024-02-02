@@ -1,3 +1,6 @@
+#-----------Ejercicio 3 ------------------------
+
+
 def choque(a, b ,d):
     sua:a+b
     if d<=sua:
@@ -21,3 +24,5 @@ rad2=b*2
 
 dis=((p-x)**2+(q-y)**2)**0.5
 choque(rad1,rad2,dis)
+
+#--------Creado por:------Helen Nataly Parga Murillo--------------------------
